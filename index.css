@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+p{
+    color:white;
+    background-color: firebrick;
+}
+h1{
+   color:red;
+    background-color: white;
+}
+h2{
+    color:blue;
+    background-color: wheat;
+}
+h3{
+    color:ghostwhite;
+    background-color: blue;
+}
