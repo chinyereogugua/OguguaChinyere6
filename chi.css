@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h3{
+    color: pink;
+    background-color: blanchedalmond;
+    font-size: 30px;
+}
